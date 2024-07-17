@@ -1,6 +1,6 @@
 # Welcome to pivotbrowser! 🚀
 
-PivotBrowser is an innovative and secure web browser designed to elevate your browsing experience. Our mission is to provide a seamless, fast, and private browsing environment for everyone.
+pivotbrowser is an innovative and secure web browser designed to elevate your browsing experience. Our mission is to provide a seamless, fast, and private browsing environment for everyone.
 
 ## Features ✨
 
